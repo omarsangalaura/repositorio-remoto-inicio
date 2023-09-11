@@ -22,4 +22,4 @@ A continuacion se describe el final del procedimiento
 14. Crear dos nuevas ramas en el repositorio local
 15. Realizar cambios en las ramas locales en todos los archivos con diferentes commits
 16. Actualizar las ramas en el repositorio remoto.
-Indicar el fin del procedimiento en el lado remoto
+Continuar con el procedimiento de la segunda rama en el lado remoto
