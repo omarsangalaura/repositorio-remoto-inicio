@@ -5,3 +5,9 @@ El ejercicio que se hara con este repositorio consiste en iniciar el flujo de in
 3. Modificar el archivo README para continuar con el guardado de commits en el lado local
 4. Actualizar los cambios desde el respositorio local con el remoto.
 Continuar el procedimiento en la parte local ...
+Continuación de las instrucciones en el lado local
+5. Modificar el archivo README con las operaciones realizadas en el lado local.
+6. Continuar las instrucciones en el archivo de texto
+7. Guardar los datos en la parte local.
+8. Actualizar el repositorio remoto con los cambios originados en la parte local.
+Continuar el procedimiento en la parte remota ...
