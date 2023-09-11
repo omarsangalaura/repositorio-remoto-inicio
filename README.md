@@ -8,3 +8,7 @@ Los cambios registrados en la parte local son guardados en el area de repositori
 # repositorio-remoto-retorno
 La tercera tarea se realiza en el repositorio remoto con una modificacion simple.
 Los cambios se regsitran en ambos archivos para que sean recuperados en el repositorio local
+# repositorio-local-final-main
+La parte final de la rama main consiste en modificar los archivos con commits diferentes.
+Adicionalmente se crean nuevas ramas para terminar el ejercicio
+# La parte local dice fin y gracias por el tiempo brindado
