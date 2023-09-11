@@ -11,4 +11,6 @@ Los cambios se regsitran en ambos archivos para que sean recuperados en el repos
 # repositorio-local-final-main
 La parte final de la rama main consiste en modificar los archivos con commits diferentes.
 Adicionalmente se crean nuevas ramas para terminar el ejercicio
-# La parte local dice fin y gracias por el tiempo brindado
+# repositorio-local-segunda-rama
+Se crea una nueva rama y se modifican los datos de los archivos disponibles.
+Las nuevas ramas junto con los cambios deben ser recuperados por el repositorio remoto.
