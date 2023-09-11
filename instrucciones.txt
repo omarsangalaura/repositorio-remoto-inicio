@@ -1,0 +1,7 @@
+Instrucciones del trabajo en GitHub y Git
+El ejercicio que se hara con este repositorio consiste en iniciar el flujo de informacion desde el repositorio remoto y complementarlo con el repositorio remoto.
+1. Crear los primeros commit en la rama main.
+2. Clonar el repositorio remoto en el repositorio local con Git.
+3. Modificar el archivo README para continuar con el guardado de commits en el lado local
+4. Actualizar los cambios desde el respositorio local con el remoto.
+Continuar el procedimiento en la parte local ...
