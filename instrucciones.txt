@@ -15,3 +15,11 @@ Continuacion de las instrucciones en el lado remoto
 9. Modificar los archivos para que sean recuperados en el lado local
 10. Recuperar los cambios registrados en el repositorio remoto.
 Continuar el procedimiento en la parte local ...
+A continuacion se describe el final del procedimiento
+11. Obtener los cambios en el lado local con FETCH
+12. Visualizar los cambios no registrados en el repositorio local
+13. Guardar los cambios en el repositorio local con PULL
+14. Crear dos nuevas ramas en el repositorio local
+15. Realizar cambios en las ramas locales en todos los archivos con diferentes commits
+16. Actualizar las ramas en el repositorio remoto.
+Indicar el fin del procedimiento en el lado remoto
